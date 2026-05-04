@@ -16,6 +16,14 @@ The project was built using **Python, Pandas, Streamlit, Plotly, and SQLite**.
 
 ---
 
+## Live Demo
+
+The dashboard is deployed on Streamlit Community Cloud and can be accessed here:
+
+[View Live Demo](https://equipment-health-monitoring-dashboard.streamlit.app/)
+
+---
+
 ## Key Features
 
 - Interactive sensor trend visualisation for temperature, vibration, pressure, and current
